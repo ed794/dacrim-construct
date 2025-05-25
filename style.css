@@ -305,3 +305,8 @@ textarea {
   50%  { transform: translateY(-5px); }
   100% { transform: translateY(0px); }
 }
+.P_despre{
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
