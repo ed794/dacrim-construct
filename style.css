@@ -211,6 +211,7 @@ textarea {
   .slides img {
     width: 750px;
     height: 450px;
+    flex-shrink: 0;
     object-fit: cover;
     border-radius: 10px;
   }
