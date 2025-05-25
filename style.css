@@ -204,14 +204,13 @@ textarea {
   }
   
   .slides {
-    display: fill;
+    display:fill;
     transition: transform 0.3s ease;
   }
   
   .slides img {
     width: 750px;
     height: 450px;
-    flex-shrink: 0;
     object-fit: cover;
     border-radius: 10px;
   }
