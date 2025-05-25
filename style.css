@@ -196,7 +196,7 @@ textarea {
     background: #555;
   }
 .slider {
-    position: sticky;
+    position:sticky;
     overflow: hidden;
     width: 750px;
     max-width: 900px;
